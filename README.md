@@ -5,4 +5,5 @@
 
 This is the first application for the
 [*Ruby on Rails Tutorial*](https://railstutorial.jp/)
-by [Michael Hartl](http://www.micharlhart.com/).Hello, world!
+by [Michael Hartl](http://www.michaelhart.com/).
+Hello, world!
